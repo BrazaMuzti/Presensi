@@ -2,7 +2,7 @@
 // KONFIGURASI API
 // ==========================================================================
 // ⚠️ GANTI DENGAN URL WEB APP GAS ANDA
-const API_BASE_URL = 'https://script.google.com/macros/s/AKfycbyrAa6kJYEwekEFZxvx08hH329vtIB7NFjndpdcFk63DXzQfD_qv4lLhg0_NU51YvzA/exec';
+const API_BASE_URL = 'https://script.google.com/macros/s/AKfycbywAi1K3DMBdSKCUYDdw9sKn71Np2EUTdWCoef8RHs565bVhL9BF-Gh5U_D9coU5wpB/exec';
 
 // ==========================================================================
 // FUNGSI PEMBANTU API
