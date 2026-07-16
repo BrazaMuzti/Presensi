@@ -2,7 +2,7 @@
 // 1. KONFIGURASI
 // ==========================================================================
 // Ganti dengan URL Web App GAS Anda setelah deploy
-const API_BASE_URL = 'https://script.google.com/macros/s/AKfycbyFJoN1KV6SQS0BHrGzq8CFYZ6w8LDcqms_tPc4wBuCg1afrSFGfFWJvkGmpshN8Ui7/exec';
+const API_BASE_URL = 'https://script.google.com/macros/s/AKfycby9X8DiBYN9BOBa_wZ4pqWVmOREciP_Upi9_XRfOqlclpWYVOY8u1FGp3MGDA4VEjxL/exec';
 
 // ==========================================================================
 // 2. FUNGSI PEMBANTU API
